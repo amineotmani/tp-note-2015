@@ -1,4 +1,4 @@
-
+>>>>>>>>>HEAD
 otmani* 
 amine*
 *****
@@ -10,5 +10,4 @@ git status
  git branch 
 git diff master commandes
 >>>>>>> commandes
-
 
