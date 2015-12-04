@@ -1,3 +1,4 @@
 otmani amine
+git status
 
 
